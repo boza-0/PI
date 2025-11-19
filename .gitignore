@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+node-backend/.env
+java-desktop/.env
+
+# Ignore dependencies
+node_modules/
+
+# Ignore build artifacts
+target/
+dist/
+build/
+
+# Ignore logs
+*.log
